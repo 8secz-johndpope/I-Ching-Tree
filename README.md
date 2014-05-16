@@ -1,4 +1,4 @@
-I_Ching_Tree
+I Ching Tree
 ============
 
-I Ching Tree diagram
+Interactive I Ching Tree diagram
